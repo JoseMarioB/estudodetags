@@ -1,0 +1,17 @@
+body {`
+    font-family: Helvetica;
+    text-align: center;
+    color: #fff;
+    background-color: #333;
+}
+
+nav ul{
+    display: flex;
+    list-style: none;
+}
+h1{
+    font-size: 32px;
+}
+img{
+    border: 1px solid #f10a0a
+}
